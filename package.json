@@ -1,12 +1,13 @@
 {
   "name": "cinefile",
   "version": "1.0.1",
-  "description": "",
+  "description": "Get movie or televison metadata based on a filename",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
+  "keywords": [],
   "scripts": {
     "test": "mocha --reporter spec ./tests/**/*.js"
   },
@@ -19,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/OshinKaramian/cinefile/issues"
   },
-  "homepage": "https://github.com/OshinKaramian/cinepfile#readme",
+  "homepage": "https://github.com/OshinKaramian/cinefile#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.0.4"

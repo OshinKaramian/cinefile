@@ -2,7 +2,6 @@
 const assert = require('assert');
 const Promise = require('bluebird');
 const path = require('path');
-console.log(process.env.CINEFILE_MOVIEDB_KEY);
 const query = require('../lib/index.js')({ moviedbKey: process.env.CINEFILE_MOVIEDB_KEY });
 const expect = require('chai').expect;
 

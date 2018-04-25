@@ -172,5 +172,11 @@
     "output": {
       "title": "It's Always Right Now, Until It's Later."
     }
+  },
+  {
+    "input":"blackballed-hrrdfd.avi",
+    "output": {
+      "title": "Blackballed: The Bobby Dukes Story"
+    }
   }
 ]
