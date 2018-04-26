@@ -1,6 +1,6 @@
 {
   "name": "cinefile",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get movie or televison metadata based on a filename",
   "main": "lib/index.js",
   "directories": {
