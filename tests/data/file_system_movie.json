@@ -188,5 +188,16 @@
     "output": {
       "title": "A Serious Man"
     }
-  }
+  }, {
+    "input": "Drive 2011 BRRip XviD-FTW.avi",
+    "output": {
+      "title": "Drive"
+    }
+  }, {
+    "input": "The Beach/The.Beach.2000.720p.HDTV.x264-ESiR.mkv",
+    "output": {
+      "title": "The Beach"
+    }
+  } 
+   
 ]

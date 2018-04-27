@@ -28,5 +28,18 @@
     "output":{
       "title": "Mad Men"
     }
+  },
+  {
+    "input": "Bobs.Burgers.S01E07.HDTV.XviD-LOL.avi",
+    "output":{
+      "title": "Bob's Burgers"
+    }
+  },
+  {
+    "input": "Its.Always.Sunny.in.Philadelphia.S07E01.HDTV.XviD-ASAP.avi",
+    "output":{
+      "title": "It's Always Sunny in Philadelphia"
+    }
   }
+  
 ]
