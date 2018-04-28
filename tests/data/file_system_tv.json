@@ -40,6 +40,12 @@
     "output":{
       "title": "It's Always Sunny in Philadelphia"
     }
+  },
+  {
+    "input": "Star Trek - DS9 - 7x18 - 'Til Death Do Us Part.avi",
+    "output":{
+      "title": "Star Trek: Deep Space Nine"
+    }
   }
   
 ]
